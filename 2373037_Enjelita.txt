@@ -1,0 +1,6 @@
+1. Lapisan mana yang paling saya pahami? Pengelolaan data karena saya memahami bahwa teknologi cerdas tidak hanya bergantung pada teknologi dan data, tetapi juga dalam menggunakan, mengelola, dan mengambil keputusan berdasarkan hasil. 
+
+2. Lapisan mana yang masih saya campuradukkan? saya masih perlu memahami lebih jelas teknologi atau perangkat yang digunakan untuk menjalankan system data dan informasi yang menjadi dasar dalam proses system. 
+
+3. Bukti apa yang membuat sebuah system layak disebut "cerdas" dan bertanggung jawab? 
+Menurut saya, system layak disebut cerdas jika mampu memanfaatkan data untuk melakukan analisis, mengenali pola, atau keputusan yang membantu menyelesaikan masalah. system juga harus bertanggung jawab yaitu menggunakan data yang tepat, menjaga keamanan dan privasi. 
